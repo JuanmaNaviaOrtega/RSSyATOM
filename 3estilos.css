@@ -1,0 +1,43 @@
+body{
+    background-color: yellow;
+}
+header{
+color: darkorange;
+    text-align:left;
+}
+.left{
+    color: darkorange;
+    text-align: left;
+}
+.center{
+    text-align: center;
+    margin: 00px 600px 0px 0px;
+}
+#tabla1{
+    margin: 10px 10px 10px 10px;
+}
+.imgchica{
+        width: 50px;
+        height: 40px;
+    }
+.class1{
+    background-color: aquamarine;
+width: 500px;
+}
+
+.ali{
+    background-color: aquamarine;
+    width: 500px;
+}
+.table2{
+    margin: 0px 50px 0px 10px;
+
+}
+.imgchica2{
+    width: 70px;
+    height: 30px;
+}
+.apa3{
+margin: 0px 0px 0px 40px;
+    color: black ;
+}
